@@ -1,0 +1,24 @@
+{
+  "name": "newman_api",
+  "version": "1.0.0",
+  "description": "API Automation On Newman",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevsDenBD/newman_api.git"
+  },
+  "keywords": [
+    "newman",
+    "api",
+    "automation"
+  ],
+  "author": "DevsDenBD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevsDenBD/newman_api/issues"
+  },
+  "homepage": "https://github.com/DevsDenBD/newman_api#readme"
+}
